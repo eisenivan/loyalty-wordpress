@@ -47,7 +47,7 @@
 
     </style>
 
-    <p class="lead">Use the options below to customize Loyalty.js. To really dig deep into the Loyalty.js plugin please visit the <a target="_blank" href="https://github.com/eisenivan/loyalty">Loyalty.js Github Page.</a> If you like this plugin please don't hesitate to take a moment and <a target="_blank" href="https://wordpress.org/plugins/loyaltyjs/">write a review, I would really appreciate it.</a>. Thanks!</p>
+    <p class="lead">Use the options below to customize Loyalty.js. To really dig deep into the Loyalty.js plugin please visit the <a target="_blank" href="https://github.com/eisenivan/loyalty">Loyalty.js Github Page.</a> If you like this plugin please don't hesitate to take a moment and <a target="_blank" href="https://wordpress.org/plugins/loyaltyjs/">write a review, I would really appreciate it.</a> Thanks!</p>
 
     <hr>
 
